@@ -215,7 +215,7 @@ a:hover {
     font-weight: normal;
     width: 20px !important;
     position: absolute;
-    bottom: 10px;
+    top: -15px;
 }
 
 .heroText p {
