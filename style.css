@@ -199,7 +199,7 @@ a:hover {
 }
 
 .heroText h1 {
-	font-size: 2.5em;
+	font-size: 2.1em;
 	color: #fff;
 	text-align: center;
 	font-weight: 900;
@@ -207,6 +207,7 @@ a:hover {
     margin: 0;
     line-height: 1.3em;
     position: relative;
+    overflow: visible;
 }
 
 .heroText h1:after {
@@ -216,6 +217,7 @@ a:hover {
     width: 20px !important;
     position: absolute;
     top: -15px;
+    right: -15px;
 }
 
 .heroText p {
