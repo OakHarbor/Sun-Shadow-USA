@@ -1265,10 +1265,14 @@ select:-moz-focusring {
                 transform: translateY(-20px);
     }
 
+    .heroText h1:after {
+        right: 15px;
+    }
+
     #home-h {
-        width: 590px;
+        width: 460px;
         font-size: 2.75em;
-        overflow-y: hidden !important;
+        overflow-x: hidden !important;
     }
 
     #home-p {
